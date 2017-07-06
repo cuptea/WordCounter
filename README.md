@@ -15,10 +15,12 @@ To run the code, the following python libraries are required:
 
 
 Spark has be installed. For more information, please check the following link:
+    
     * https://spark.apache.org/docs/latest/
 
 
 And put the following code into .bashrc:
+    
     export SPARK_HOME=/path/to/spark
     exprt PATH=$SPARK_HOME/bin:$PATH
 
